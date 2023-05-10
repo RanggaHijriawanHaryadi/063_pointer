@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "poniter", "poniter\poniter.
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pointer2", "pointer2\pointer2.vcxproj", "{B7935151-A717-481F-885E-C3E3A4BC432A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "friend1", "friend1\friend1.vcxproj", "{01B10A77-4887-4E31-96D1-82AC9805D923}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{B7935151-A717-481F-885E-C3E3A4BC432A}.Release|x64.Build.0 = Release|x64
 		{B7935151-A717-481F-885E-C3E3A4BC432A}.Release|x86.ActiveCfg = Release|Win32
 		{B7935151-A717-481F-885E-C3E3A4BC432A}.Release|x86.Build.0 = Release|Win32
+		{01B10A77-4887-4E31-96D1-82AC9805D923}.Debug|x64.ActiveCfg = Debug|x64
+		{01B10A77-4887-4E31-96D1-82AC9805D923}.Debug|x64.Build.0 = Debug|x64
+		{01B10A77-4887-4E31-96D1-82AC9805D923}.Debug|x86.ActiveCfg = Debug|Win32
+		{01B10A77-4887-4E31-96D1-82AC9805D923}.Debug|x86.Build.0 = Debug|Win32
+		{01B10A77-4887-4E31-96D1-82AC9805D923}.Release|x64.ActiveCfg = Release|x64
+		{01B10A77-4887-4E31-96D1-82AC9805D923}.Release|x64.Build.0 = Release|x64
+		{01B10A77-4887-4E31-96D1-82AC9805D923}.Release|x86.ActiveCfg = Release|Win32
+		{01B10A77-4887-4E31-96D1-82AC9805D923}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
