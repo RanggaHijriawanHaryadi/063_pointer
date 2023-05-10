@@ -5,6 +5,8 @@ VisualStudioVersion = 17.5.33424.131
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "poniter", "poniter\poniter.vcxproj", "{F1FCACAF-BFB6-48AB-912B-48260508E53A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pointer2", "pointer2\pointer2.vcxproj", "{B7935151-A717-481F-885E-C3E3A4BC432A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{F1FCACAF-BFB6-48AB-912B-48260508E53A}.Release|x64.Build.0 = Release|x64
 		{F1FCACAF-BFB6-48AB-912B-48260508E53A}.Release|x86.ActiveCfg = Release|Win32
 		{F1FCACAF-BFB6-48AB-912B-48260508E53A}.Release|x86.Build.0 = Release|Win32
+		{B7935151-A717-481F-885E-C3E3A4BC432A}.Debug|x64.ActiveCfg = Debug|x64
+		{B7935151-A717-481F-885E-C3E3A4BC432A}.Debug|x64.Build.0 = Debug|x64
+		{B7935151-A717-481F-885E-C3E3A4BC432A}.Debug|x86.ActiveCfg = Debug|Win32
+		{B7935151-A717-481F-885E-C3E3A4BC432A}.Debug|x86.Build.0 = Debug|Win32
+		{B7935151-A717-481F-885E-C3E3A4BC432A}.Release|x64.ActiveCfg = Release|x64
+		{B7935151-A717-481F-885E-C3E3A4BC432A}.Release|x64.Build.0 = Release|x64
+		{B7935151-A717-481F-885E-C3E3A4BC432A}.Release|x86.ActiveCfg = Release|Win32
+		{B7935151-A717-481F-885E-C3E3A4BC432A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
