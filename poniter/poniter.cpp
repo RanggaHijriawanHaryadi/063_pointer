@@ -20,4 +20,13 @@ int main()
 	mahasiswa& ref = mhs;  //Printer Reference refMhs
 	ref.nim = 2;           //Member Acces Operator
 	mhs.showNim();
+
+
+	mahasiswa* pMhs = &mhs;      //pointer Derefence pmhs
+	pMhs->nim = 3;               //Arrow Operator
+	pMhs->showNim();
+	system("pause");
+	return;
+
+}
 }
